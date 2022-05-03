@@ -7,7 +7,7 @@
   </abc>
 
 ## 👨🏻‍💻 &nbsp;About Me
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/67961339/166572380-ed537c65-0cc0-4ec4-8871-5d13240e38fa.gif" width="400" align="right"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/67961339/166572380-ed537c65-0cc0-4ec4-8871-5d13240e38fa.gif" width="350" align="right"/>
 
 - 🎓  I'm currently studying Computer Science Engineering at PSIT , Kanpur.
 - 👀 I’m interested in Web Development , Cross-Platform Development and Problem Solving.
