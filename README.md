@@ -4,6 +4,9 @@
   <br> I'm Harshit Singh Chandel :computer:<br>
   <br>
    <br>
+  <img src="https://user-images.githubusercontent.com/67961339/166573908-0358b4fb-8f8f-4356-9082-e81ff065a372.png"  height="350" width="100%">
+  <br>
+   <br>
   </abc>
 
 ## 👨🏻‍💻 &nbsp;About Me
